@@ -1,0 +1,1002 @@
+PID,ENC_ID,seer_stage,MEDICATION_DESC,MEDICATION_SUMMARY,DOSE,UNIT,FREQUENCY,TOTAL_DOSE_COUNT
+10000,46836,1,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,5
+10008,46886,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,3
+10029,47034,4,ampicillin/sulbactam IVPB UH,(Unasyn) 15 g IV every 6 hours,1.5,g,every 6 hours,11
+10063,47240,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,2
+10071,47276,9,simvastatin,(Zocor) 40 mg tablet oral at bedtime,40,mg,at bedtime,1
+10103,47511,1,dexamethasone (multiroute),2 mg IV/PO every 12 hours May be administered IV or PO,2,mg,every 12 hours,2
+1012,3138,1,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,2
+10135,47739,1,calcium carbonate,"2,500 mg tablet oral every 6 hours give at 0000, 0600, 1200, and 1800  Do not give until calcium level is drawn",2500,mg,every 6 hours,6
+10136,47744,9,oxyCODONE,5 - 10 mg tablet oral every 4 hours PRN pain,5,mg,every 4 hours,15
+10143,47769,1,magnesium oxide,(Mag-Ox) 800 mg tablet oral as directed PRN Magnesium 16-19 Mag = 16-19 give 800 mg Magnesium Oxide,800,mg,as directed,1
+10152,47800,7,HYDROcodone/acetamin 75mg/500mg/15mL,(Lortab elixir) 75 - 15 mL solution oral every 4 hours PRN pain via G tube,15,ml,every 4 hours,24
+10178,47898,9,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,5
+10181,47913,8,HYDROcodone/acetaminophen 5mg/325mg,"(Norco) 1 - 2 tablet oral daily takes scheduled dose in the AM, and then Q 4 hours prn",2,tablet,daily,2
+10184,47938,1,ondansetron injection UH,(Zofran) 4 - 8 mg IV every 6 hours PRN Refractory post-op nausea/vomiting,8,mg,every 6 hours,2
+10189,47956,1,polyvinyl alcohol eye drops,"(artificial tears) 2 - 4 drop eye, right four times a day",2,drop,four times a day,2
+10206,48034,1,acetaminophen/codeine 300mg/30 mg,(Tylenol #3) 1 - 2 tablet tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+10232,48124,1,verapamil SR,240 mg oral daily,240,mg,daily,1
+10248,48175,1,acetaminophen UH,(Tylenol) 325 - 650 mg tablet oral every 4 hours PRN mild pain,650,mg,every 4 hours,1
+10293,48438,1,calcium carbonate,"1,250 mg tablet oral three times a day with meals",1250,mg,three times a day with meals,2
+10313,48534,4,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,2
+10321,48555,7,ampicillin/sulbactam IVPB UH,(Unasyn) 3 g IV every 6 hours,3,g,every 6 hours,6
+10330,48606,3,calcium carbonate,"1,250 mg tablet oral three times a day with meals",1250,mg,three times a day with meals,2
+10331,48615,1,ondansetron injection UH,(Zofran) 4 - 8 mg IV every 4 hours PRN Nausea/Vomiting,4,mg,every 4 hours,1
+10389,48938,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,3
+1039,3279,3,guar gum powder,(Benefiber) 1 packet powder for reconstitution with feeds daily,1,packet,daily,1
+1039,3279,4,guar gum powder,(Benefiber) 1 packet powder for reconstitution with feeds daily,1,packet,daily,1
+10394,48947,1,ondansetron injection UH,(Zofran) 4 - 8 mg IV every 4 hours,4,mg,every 4 hours,1
+10404,48983,1,liothyronine,(Cytomel) 50 microgram tablet oral daily,50,microgram,daily,1
+10418,49035,1,acetaminophen UH,(Tylenol) 325 - 650 mg tablet oral every 4 hours PRN mild pain,650,mg,every 4 hours,2
+10421,49074,1,aprepitant,(Emend) 80 mg capsule oral once Please give before DAY 2 chemotherapy,80,mg,once,1
+10428,49116,9,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,4
+10439,49155,4,heparin injection,"5,000 unit subcutaneous two times a day",5000,unit,two times a day,28
+1045,3291,4,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,23
+10453,49241,1,fluticasone/salmeterol 250/50 Diskus,(Advair) 1 puff inhaled two times a day,1,puff,two times a day,2
+10484,49458,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain,2,tablet,every 4 hours,5
+10523,49640,1,ondansetron injection UH,"(Zofran) 4 mg IV once PRN nausea/vomiting
+Do not repeat Use for rescue, use first per PACU antiemetic Guidelines",4,mg,once,1
+10532,49714,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+10533,49717,1,heparin injection,"5,000 unit subcutaneous pre-procedure Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+10534,49718,7,insulin Lispro sliding scale_UH,"(HumaLOG) subcutaneous four times a day before meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 4
+For Blood Glucose 201 - 250 Give (units) 6
+For Blood Glucose 251 - 300 Give (units) 10
+For Blood Glucose 301 - 350 Give (units) 12
+For Blood Glucose 351 - 400 Give (units) 14
+For Blood Glucose > 400 Give (units) 16 Contact physician",.,unit,four times a day before meals,7
+10548,49825,1,senna,(Senokot) 2 tablet oral at bedtime,2,tablet,at bedtime,3
+1056,3324,7,dexamethasone injection UH,"6 mg IV every 6 hours, stop after 24 Hours",6,mg,every 6 hours,4
+10574,49977,1,spironolactone,(Aldactone) 25 mg tablet oral daily,25,mg,daily,2
+10581,50011,9,acetaminophen (multiroute) - UH,(Tylenol) 325 mg PO/PR every 4 hours May be adiministered PO or PR,325,mg,every 4 hours,11
+10588,50103,1,HYDROcodone/acetamin 75mg/500mg/15mL,(Lortab elixir) 10 - 15 mL solution oral every 4 hours PRN pain,15,ml,every 4 hours,4
+10643,50384,3,LORazepam,(Ativan) 05 mg tablet oral every 8 hours PRN anxiety first dose now,0.5,mg,every 8 hours,1
+10657,50417,3,ondansetron injection UH,"(Zofran) 4 mg IV once PRN nausea/vomiting
+Do not repeat Use for rescue, use first per PACU antiemetic Guidelines",4,mg,once,1
+10666,50448,4,nicotine patch 7 mg/24 hr,7 mg/day topically daily,7,,daily,16
+10672,50498,3,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,2
+10674,50519,9,docusate,100 mg capsule oral two times a day,100,mg,two times a day,10
+1068,3370,7,albuterol/ipratropium SVN (NMT),(Duoneb) 3 mL inhaled every 6 hours PRN Bronchospasm/wheezing 1 unit dose Duoneb (25 mg Albuterol/500 mcg Ipratropium)= 3 mL,3,ml,every 6 hours,1
+10682,50560,1,metoprolol injection,"(Lopressor) 25 mg IV every 6 hours
+HOLD FOR
+SBP less than: 100
+HR less than: 60",2.5,mg,every 6 hours,4
+10707,50698,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,4
+10725,50827,7,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,3
+10727,50831,1,DULoxetine,(Cymbalta) 90 mg capsule oral daily,90,mg,daily,1
+10746,50906,3,ceFAZolin IVPB UH,1 g IV pre-op,1,g,pre-op,1
+10760,50984,3,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,11
+10764,50991,3,docusate  solution,(Colace) 100 mg oral two times a day Hold for loose stools,100,mg,two times a day,3
+10790,51127,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,5
+10792,51138,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,11
+10797,51176,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",2,mg,every 10 minutes,6
+10798,51183,2,albuterol/ipratropium SVN (NMT),(Duoneb) 3 mL inhaled every 4 hours 1 unit dose Duoneb (25 mg Albuterol/500 mcg Ipratropium)= 3 mL,3,ml,every 4 hours,110
+10810,51216,4,clindamycin IVPB UH,"(Cleocin) 900 mg IV pre-procedure, stop after 1 Days Give 30-60 mins prior to incision",900,mg,pre-procedure,1
+10824,51304,3,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,14
+10824,51304,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,14
+10829,51327,7,docusate,(Colace) 100 mg capsule oral two times a day,100,mg,two times a day,7
+10843,51387,7,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,4
+10846,51396,5,insulin Lispro sliding scale_UH,"(HumaLOG) subcutaneous four times a day before meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 4
+For Blood Glucose 201 - 250 Give (units) 6
+For Blood Glucose 251 - 300 Give (units) 10
+For Blood Glucose 301 - 350 Give (units) 12
+For Blood Glucose 351 - 400 Give (units) 14
+For Blood Glucose > 400 Give (units) 16 Contact physician",.,unit,four times a day before meals,4
+10859,51451,3,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,2
+10876,51544,1,diphenhydrAMINE injection UH,"(Benadryl) 125 - 25 mg IV as directed PRN nausea/vomiting
+Use if ondansetron fails, per PACU antiemetic Guidelines Give no more than 2 times",25,mg,as directed,2
+10877,51545,4,magnesium sulfate IVPB UH,"2 g IV as directed PRN Serum Magnesium < 12 to 2;
+Mag = 16-19 give 2g 
+Mag = 1-15    give 4 g 
+Mag less than 1 give 6 g and call HO",2,g,as directed,6
+10878,51548,4,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,25
+10891,51694,1,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,8
+10898,51743,9,metFORMIN,(Glucophage) 500 mg tablet oral two times a day with meals,500,mg,two times a day with meals,2
+10921,51859,3,heparin injection,"5,000 unit subcutaneous pre-procedure, stop after 1 Days Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+10925,51925,2,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,5
+10969,52164,1,acetaminophen/codeine 300mg/30 mg,(Tylenol #3) 1 - 2 tablet tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+10987,52239,1,ceFAZolin IVPB UH,"(Kefzol, Ancef) 1 g IV as directed, stop after 1 Doses Redose at 3 and 9 hours",1,g,as directed,1
+11025,52394,9,dexamethasone injection UH,2 mg IV every 6 hours unable to tolerate PO tonight,2,mg,every 6 hours,3
+11025,52394,1,dexamethasone injection UH,2 mg IV every 6 hours unable to tolerate PO tonight,2,mg,every 6 hours,3
+11025,52394,1,dexamethasone injection UH,2 mg IV every 6 hours unable to tolerate PO tonight,2,mg,every 6 hours,3
+11026,52395,1,heparin injection,"5,000 unit subcutaneous pre-procedure Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+11030,52413,3,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,1,tablet,every 4 hours,1
+11047,52460,7,oxyCODONE,5 - 10 mg tablet oral every 4 hours PRN pain,5,mg,every 4 hours,7
+11049,52472,3,morphine PCA 1 mg/mL - UH,"
+loading dose: 2 mg, may repeat only once after 15 minutes, every 24 hours
+demand dose: 05 mg, may change to: 08 mg if pain not controlled: 1) notify physician; 2) increase dose if the following assessment parameters are met: sedation score < 2; pulse ox > 92%; RR > 10; PCA dose delivered use > 50%; site of pain; new onset
+lockout interval: 10 minutes
+4 hour limit: 40 mg",.,each,PRN,1
+11049,52472,3,morphine PCA 1 mg/mL - UH,"
+loading dose: 2 mg, may repeat only once after 15 minutes, every 24 hours
+demand dose: 05 mg, may change to: 08 mg if pain not controlled: 1) notify physician; 2) increase dose if the following assessment parameters are met: sedation score < 2; pulse ox > 92%; RR > 10; PCA dose delivered use > 50%; site of pain; new onset
+lockout interval: 10 minutes
+4 hour limit: 40 mg",.,each,PRN,1
+1105,3517,7,levetiracetam,(Keppra) 500 mg tablet oral two times a day,500,mg,two times a day,5
+11056,52486,4,guaiFENesin,(Robitussin) 400 mg syrup oral every 4 hours,400,mg,every 4 hours,74
+11081,52668,3,calcium carbonate,"2,500 mg tablet oral every 6 hours",2500,mg,every 6 hours,4
+11083,52685,7,albuterol inhaler,2 puff inhaled every 3 hours,2,puff,every 3 hours,38
+11084,52687,7,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,6
+11099,52772,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN moderate pain,2,tablet,every 4 hours,9
+11107,52784,5,dexamethasone,"4 mg tablet oral every 6 hours, stop after 4 Doses",4,mg,every 6 hours,4
+11108,52790,3,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,6
+11150,52935,7,HYDROcodone/acetamin 75mg/500mg/15mL,(Lortab elixir) 15 mL solution oral every 4 hours PRN pain please give via jejunostomy tube,15,ml,every 4 hours,13
+11166,52978,7,sodium phosphate/potassium phosphate,(Neutra-Phos) 1 packet powder for reconstitution oral once,1,packet,once,1
+11172,52999,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,3
+11179,53022,9,ceFAZolin IVPB UH,"(Kefzol, Ancef) 1 g IV pre-procedure, stop after 1 Days Give 30-60 mins prior to incision",1,g,pre-procedure,1
+11182,53034,8,dexamethasone injection UH,4 mg IV every 6 hours,4,mg,every 6 hours,3
+11185,53050,1,acetaminophen UH,(Tylenol) 650 mg tablet oral every 6 hours PRN mild pain,650,mg,every 6 hours,11
+11195,53110,4,cephalexin,"(Keflex) 500 mg capsule oral four times a day, stop after 5 Days",500,mg,four times a day,8
+11219,53234,3,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,1
+11241,53333,7,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,39
+11258,53372,3,calcitriol,"(Rocaltrol) 05 microgram oral <User Schedule> ( every 1 day: 06:00, 18:00 )",0.5,microgram,<User Schedule>,2
+11261,53396,3,HYDROmorphone =/> 50 kg or 13 yr,(Dilaudid) 01 - 04 mg IV every 10 minutes PRN severe pain For patients with hydromorphone PCA orders,0.3,mg,every 10 minutes,3
+11276,53455,1,levothyroxine,(Synthroid) 125 microgram tablet oral daily,125,microgram,daily,1
+11277,53456,3,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,6
+11285,53474,4,albuterol/ipratropium SVN (NMT),(Duoneb) 3 mL inhaled once 1 unit dose Duoneb (25 mg Albuterol/500 mcg Ipratropium)= 3 mL,3,ml,once,1
+11309,53594,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,2
+11319,53656,2,oxyCODONE,5 - 15 mg solution oral every 4 hours PRN Pain,10,mg,every 4 hours,17
+11322,53667,2,enoxaparin injection - NonStandard,(Lovenox) 100 mg subcutaneous two times a day,100,mg,two times a day,2
+11334,53738,1,ondansetron injection UH,(Zofran) 4 - 8 mg IV every 6 hours PRN Nausea/Vomiting,4,mg,every 6 hours,1
+11345,53774,1,Maalox ES,10 - 20 mL suspension oral every 6 hours PRN GERD,20,ml,every 6 hours,3
+11365,53883,3,metoprolol XL,"(Toprol-XL) 100 mg tablet, extended release oral daily",100,mg,daily,3
+11378,53978,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,4
+11385,53992,7,heparin injection,"5,000 unit subcutaneous three times a day on POD#1",5000,unit,three times a day,8
+11389,54011,7,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,2
+11390,54018,1,dexamethasone,4 mg tablet oral three times a day,4,mg,three times a day,1
+11393,54021,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,7
+1142,3594,4,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,2
+1142,3594,3,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,2
+11438,54177,1,docusate,(Colace) 100 mg capsule oral two times a day,100,mg,two times a day,2
+11444,54204,7,ondansetron ODT,"(Zofran ODT) 4 mg tablet, disintegrating oral every 6 hours",4,mg,every 6 hours,6
+11452,54225,1,heparin injection,"5,000 unit subcutaneous three times a day DO NOT GIVE PRIOR TO 21:00HRS (9pm)",5000,unit,three times a day,18
+11463,54288,1,heparin injection,"5,000 unit subcutaneous pre-procedure, stop after 1 Doses Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+11464,54289,3,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain,2,tablet,every 4 hours,6
+11478,54378,3,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,3
+11487,54414,2,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,1
+11504,54504,9,oxyCODONE,5 - 15 mg tablet oral every 3 hours PRN pain,15,mg,every 3 hours,17
+11518,54539,9,calcium gluconate IVPB UH,"1 g IV as directed PRN Ionized Calcium < 093 to 111;
+iCal = 105-111 give 1 g 
+iCal = 099-104 give 2 g 
+iCal = 093-098 give 3 g 
+iCal less than 093 give 4 g and call HO",1,g,as directed,1
+11529,54579,1,bacitracin ointment,"apply topically to to incisions three times a day, stop after 3 Days Apply to incisions after cleaning",.,,three times a day,6
+11530,54580,7,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,1
+11532,54582,5,insulin Lispro sliding scale_UH,"(HumaLOG) subcutaneous four times a day before meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 4
+For Blood Glucose 201 - 250 Give (units) 6
+For Blood Glucose 251 - 300 Give (units) 10
+For Blood Glucose 301 - 350 Give (units) 12
+For Blood Glucose 351 - 400 Give (units) 14
+For Blood Glucose > 400 Give (units) 16 Contact physician",.,unit,four times a day before meals,16
+11536,54594,2,carvedilol,(Coreg) 25 mg tablet oral two times a day with meals,25,mg,two times a day with meals,23
+11566,54782,2,oxyCODONE,5 - 10 mg solution oral every 4 hours PRN Pain,10,mg,every 4 hours,21
+11577,54812,1,ondansetron injection UH,(Zofran) 4 - 8 mg IV every 6 hours PRN Nausea/Vomiting,4,mg,every 6 hours,15
+11577,54812,4,ondansetron injection UH,(Zofran) 4 - 8 mg IV every 6 hours PRN Nausea/Vomiting,4,mg,every 6 hours,15
+11580,54819,1,polyethylene glycol 3350,"(Glycolax, Miralax) 17 g powder for reconstitution oral two times a day",17,g,two times a day,7
+11589,54838,1,rosuvastatin,(Crestor) 10 mg tablet oral at bedtime,10,mg,at bedtime,1
+11613,54939,1,ceFAZolin IVPB UH,"(Kefzol, Ancef) 1 g IV pre-procedure, stop after 1 Doses Give 30-60 mins prior to incision
+12/8",1,g,pre-procedure,1
+11633,54986,1,oxyCODONE,5 mg tablet oral every 4 hours PRN severe pain,5,mg,every 4 hours,5
+11652,55071,9,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,7
+11653,55073,7,milk of magnesia concentrate,10 mL suspension oral daily,10,ml,daily,3
+11655,55076,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",4,mg,every 10 minutes,4
+11662,55088,1,ceFAZolin IVPB UH,"(Kefzol, Ancef) 2 g IV pre-procedure Give 30-60 mins prior to incision",2,g,pre-procedure,1
+11669,55117,9,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,11
+11672,55131,1,traMADol,(Ultram) 50 mg tablet oral every 6 hours PRN pain Maximum 200 mg/day IF CrCL < 30 mL/min,50,mg,every 6 hours,5
+11687,55187,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,3
+11702,55223,3,acetaminophen UH,"1,000 mg tablet oral every 6 hours",1000,mg,every 6 hours,10
+11709,55254,1,levetiracetam,(Keppra) 750 mg tablet oral two times a day,750,mg,two times a day,2
+11709,55254,8,levetiracetam,(Keppra) 750 mg tablet oral two times a day,750,mg,two times a day,2
+11746,55393,3,acetaminophen/codeine 300mg/30 mg,(Tylenol #3) 1 - 2 tablet tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+11756,55422,4,metFORMIN XR,"(Glucophage-XR) 1,500 mg tablet, extended release oral with breakfast",1500,mg,with breakfast,4
+11759,55439,7,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,14
+11779,55507,2,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,17
+11779,55507,7,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,17
+1178,3773,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+11791,55547,3,lisinopril,(Zestril) 20 mg tablet oral before breakfast,20,mg,before breakfast,1
+11797,55563,2,lovastatin,(Mevacor) 20 mg tablet oral at bedtime,20,mg,at bedtime,5
+11805,55580,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",2,mg,every 10 minutes,5
+11806,55609,2,09%NaCl,"1,000 mL 150 mL/hr IV",.,ml/hr,<Continuous>,2
+11826,55680,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,7
+11848,55749,1,levothyroxine,(Synthroid) 100 microgram tablet oral daily,100,microgram,daily,1
+11871,55817,1,heparin injection,"5,000 unit subcutaneous pre-procedure Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+11871,55817,7,heparin injection,"5,000 unit subcutaneous pre-procedure Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+11883,55907,4,metFORMIN,(Glucophage) 500 mg tablet oral two times a day with meals,500,mg,two times a day with meals,5
+11894,55939,9,acetylcysteine capsule,"600 mg oral two times a day, stop after 4 Doses",600,mg,two times a day,4
+11911,55984,4,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,3
+11928,56104,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,2
+11933,56118,2,glimepiride,(Amaryl) 4 mg tablet oral daily,4,mg,daily,1
+11946,56180,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,2
+11947,56181,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,1,tablet,every 4 hours,1
+11952,56193,4,D5% LR,"1,000 mL 150 mL/hr IV",.,ml/hr,<Continuous>,1
+11957,56203,4,pravastatin,(Pravachol) 20 mg tablet oral at bedtime,20,mg,at bedtime,1
+11966,56275,7,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,12
+11979,56305,2,albuterol/ipratropium SVN (NMT),(Duoneb) 3 mL inhaled every 4 hours 1 unit dose Duoneb (25 mg Albuterol/500 mcg Ipratropium)= 3 mL,3,ml,every 4 hours,27
+11985,56340,3,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,4
+11998,56389,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+12006,56418,1,fentanyl injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,2
+12011,56443,2,ampicillin/sulbactam IVPB UH,(Unasyn) 15 g IV once,1.5,g,once,2
+12015,56495,3,norepinephrine infusion UH,"16 mg in D5% 250 mL IV; start at 1 microgram/kg/minute
+Titrate to keep MAP greater than 65",.,mg,PRN,65
+12024,56577,7,morphine injection Mott,"1 mg IV every 15 minutes PRN pain, stop after 4 Times",1,mg,every 15 minutes,1
+12049,56735,2,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain,1,tablet,every 4 hours,7
+12050,56742,2,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+12080,56894,3,labetalol injection UH,5 - 10 mg IV every 15 minutes PRN sbp > 160,10,mg,every 15 minutes,4
+12101,56948,0,heparin injection,"1 unit subcutaneous pre-procedure, stop after 1 Days Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+12142,57127,9,dexamethasone,"2 mg tablet oral every 6 hours, stop after 4 Doses",2,mg,every 6 hours,3
+12143,57151,1,atenolol,100 mg tablet oral daily,100,mg,daily,1
+12143,57151,0,atenolol,100 mg tablet oral daily,100,mg,daily,1
+12243,57513,2,fentanyl injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,2
+1225,3944,1,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain,1,tablet,every 4 hours,3
+12275,57682,1,carbidopa/levodopa 25mg/100mg,(Sinemet) 1 tablet oral three times a day,1,tablet,three times a day,3
+12293,57753,7,piperacillin/tazobactam IVPB UH,(Zosyn) 45 g IV every 8 hours,4.5,g,every 8 hours,21
+12317,57819,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN moderate pain,1,tablet,every 4 hours,12
+12340,57893,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,3
+1239,3981,2,insulin Regular sliding scale with meals,"(HumuLIN R/NovoLIN R) subcutaneous
+For Blood Glucose < 80 based on POC Glucose Level
+For Blood Glucose 80 - 120
+For Blood Glucose 121 - 160
+For Blood Glucose 161 - 200
+For Blood Glucose 201 - 240
+For Blood Glucose 241 - 280
+For Blood Glucose 281 - 320
+For Blood Glucose > 320
+For Blood Glucose < 80
+For Blood Glucose 80 - 120
+For Blood Glucose 121 - 160
+For Blood Glucose 161 - 200
+For Blood Glucose 201 - 240
+For Blood Glucose 241 - 280
+For Blood Glucose 281 - 320
+For Blood Glucose > 320
+For Blood Glucose < 80
+For Blood Glucose 80 - 120
+For Blood Glucose 121 - 160
+For Blood Glucose 161 - 200
+For Blood Glucose 201 - 240
+For Blood Glucose 241 - 280
+For Blood Glucose 281 - 320
+For Blood Glucose > 320
+For Blood Glucose < 80
+For Blood Glucose 80 - 120
+For Blood Glucose 121 - 160
+For Blood Glucose 161 - 200
+For Blood Glucose 201 - 240
+For Blood Glucose 241 - 280
+For Blood Glucose 281 - 320
+For Blood Glucose > 320",.,unit,four times a day before meals,1
+1239,3981,0,insulin Regular sliding scale with meals,"(HumuLIN R/NovoLIN R) subcutaneous
+For Blood Glucose < 80 based on POC Glucose Level
+For Blood Glucose 80 - 120
+For Blood Glucose 121 - 160
+For Blood Glucose 161 - 200
+For Blood Glucose 201 - 240
+For Blood Glucose 241 - 280
+For Blood Glucose 281 - 320
+For Blood Glucose > 320
+For Blood Glucose < 80
+For Blood Glucose 80 - 120
+For Blood Glucose 121 - 160
+For Blood Glucose 161 - 200
+For Blood Glucose 201 - 240
+For Blood Glucose 241 - 280
+For Blood Glucose 281 - 320
+For Blood Glucose > 320
+For Blood Glucose < 80
+For Blood Glucose 80 - 120
+For Blood Glucose 121 - 160
+For Blood Glucose 161 - 200
+For Blood Glucose 201 - 240
+For Blood Glucose 241 - 280
+For Blood Glucose 281 - 320
+For Blood Glucose > 320
+For Blood Glucose < 80
+For Blood Glucose 80 - 120
+For Blood Glucose 121 - 160
+For Blood Glucose 161 - 200
+For Blood Glucose 201 - 240
+For Blood Glucose 241 - 280
+For Blood Glucose 281 - 320
+For Blood Glucose > 320",.,unit,four times a day before meals,1
+1340,4366,1,ampicillin/sulbactam IVPB UH,(Unasyn) 15 g IV every 6 hours,1.5,g,every 6 hours,10
+1340,4366,0,ampicillin/sulbactam IVPB UH,(Unasyn) 15 g IV every 6 hours,1.5,g,every 6 hours,10
+1340,4366,1,ampicillin/sulbactam IVPB UH,(Unasyn) 15 g IV every 6 hours,1.5,g,every 6 hours,10
+1340,4366,1,ampicillin/sulbactam IVPB UH,(Unasyn) 15 g IV every 6 hours,1.5,g,every 6 hours,10
+1370,4473,9,methadone,20 mg tablet oral two times a day,20,mg,two times a day,7
+1384,4548,2,ondansetron injection UH,(Zofran) 4 - 8 mg IV every 6 hours PRN Nausea/Vomiting,4,mg,every 6 hours,2
+1384,4548,2,ondansetron injection UH,(Zofran) 4 - 8 mg IV every 6 hours PRN Nausea/Vomiting,4,mg,every 6 hours,2
+1395,4576,9,"nystatin suspension 100,000 units/mL",5 mL oral four times a day Please try to swab back of patient's throat; pt currently unable to swallow,5,ml,four times a day,21
+1413,4638,2,multivitamin tablet,1 tablet oral daily,1,tablet,daily,1
+1452,4802,1,calcium carbonate,"1,250 mg tablet oral three times a day with meals",1250,mg,three times a day with meals,2
+1466,4864,0,enoxaparin injection UH - prophylaxis,(Lovenox) 40 mg subcutaneous daily Wait 12 hours before regional anesthesia,40,mg,daily,6
+1466,4864,1,enoxaparin injection UH - prophylaxis,(Lovenox) 40 mg subcutaneous daily Wait 12 hours before regional anesthesia,40,mg,daily,6
+1479,4935,2,magnesium sulfate IVPB UH,1 g IV once,1,g,once,1
+1513,5091,5,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,15
+1513,5091,1,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,15
+1513,5091,1,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,15
+1521,5140,2,insulin Lispro injection,(HumaLOG) 3 unit subcutaneous three times a day with meals,3,unit,three times a day with meals,1
+1526,5175,1,ibuprofen UH,(Motrin) 600 mg tablet oral every 6 hours PRN pain,600,mg,every 6 hours,1
+1564,5356,1,ipratropium SVN (NMT),(Atrovent) 500 microgram inhaled every 4 hours PRN asthma,500,microgram,every 4 hours,17
+1608,5488,9,dexamethasone (multiroute),8 mg PO two times a day 8mg PO BID x 2 days then stop,8,mg,two times a day,5
+1612,5503,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,4
+1685,5815,1,clindamycin IVPB UH,(Cleocin) 600 mg IV pre-procedure Give 30-60 mins prior to incision,600,mg,pre-procedure,1
+1693,5854,3,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,1,tablet,every 4 hours,2
+1701,5887,2,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,1,tablet,every 4 hours,2
+1732,6015,0,ceFAZolin IVPB UH,"(Kefzol, Ancef) 2 g IV pre-procedure, stop after 1 Doses Give 30-60 mins prior to incision",2,g,pre-procedure,1
+1786,6285,1,heparin injection,"5,000 unit subcutaneous pre-procedure Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+179,523,7,hydrALAZINE injection UH,(Apresoline) 10 mg IV once,10,mg,once,1
+1795,6332,1,hydrocodone/acetaminophen 10mg/325mg,(Norco 10/325) 1 tablet PO every 4 hours PRN pain,1,tablet,every 4 hours,4
+1795,6332,9,hydrocodone/acetaminophen 10mg/325mg,(Norco 10/325) 1 tablet PO every 4 hours PRN pain,1,tablet,every 4 hours,4
+1796,6335,1,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN moderate pain,1,tablet,every 4 hours,1
+182,530,7,insulin Regular sliding scale_UH,"(HumuLIN R/NovoLIN R) subcutaneous four times a day before meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 4
+For Blood Glucose 201 - 250 Give (units) 6
+For Blood Glucose 251 - 300 Give (units) 10
+For Blood Glucose 301 - 350 Give (units) 12
+For Blood Glucose 351 - 400 Give (units) 14
+For Blood Glucose > 400 Give (units) 16 Contact physician",.,unit,four times a day before meals,3
+1863,6705,1,fentanyl injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,1
+1875,6771,1,pantoprazole,"(Protonix) 40 mg tablet, enteric coated oral before breakfast",40,mg,before breakfast,1
+1888,6839,2,D5% 045%NaCl,"1,000 mL 100 mL/hr IV, TKO when tolerating oral fluids",.,ml/hr,<Continuous>,1
+1899,6917,1,HYDROmorphone =/> 50 kg or 13 yr,(Dilaudid) 01 - 02 mg IV every 2 hours PRN Pain,0.2,mg,every 2 hours,4
+1901,6956,7,clindamycin IVPB UH,"(Cleocin) 900 mg IV pre-procedure OR 3 @ 0730 on 11/24
+Give 1 hour prior to procedure Dose optimization policy for patients >/= 80 kg",900,mg,pre-procedure,1
+1913,7020,3,calcium carbonate,"3,750 mg tablet oral three times a day with meals",3750,mg,three times a day with meals,15
+1962,7383,3,heparin injection,"5,000 unit subcutaneous pre-procedure Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+1966,7406,1,heparin injection,"5,000 unit subcutaneous pre-procedure Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+1966,7406,9,heparin injection,"5,000 unit subcutaneous pre-procedure Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+1974,7419,3,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,1
+2014,7584,1,sulfamethoxazole/trimethoprim IVPB UH,(Bactrim) 80 mg IV daily,80,mg,daily,7
+2035,7670,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN moderate pain,1,tablet,every 4 hours,5
+209,585,8,09%NaCl + 20 mEq KCl/L,"1,000 mL @ 70 mL/hr IV, Saline-lock when tolerating oral fluids",.,ml/hr,<Continuous>,2
+2135,8120,1,calcium carbonate,"2,500 mg tablet oral three times a day with meals",1250,mg,three times a day with meals,2
+2136,8141,7,piperacillin/tazobactam IVPB UH,(Zosyn) 3375 g IV every 6 hours,3.375,g,every 6 hours,9
+2156,8185,3,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+2167,8342,5,docusate,100 mg capsule oral two times a day,100,mg,two times a day,9
+2185,8458,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,3
+22,42,7,docusate,(Colace) 100 mg capsule oral two times a day,100,mg,two times a day,27
+2209,8591,5,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,9
+221,620,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,1
+2223,8628,7,heparin injection,"5,000 unit subcutaneous pre-procedure, stop after 1 Doses 1/25
+Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+2260,8763,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",12.5,microgram,every 5 minutes,2
+2265,8778,2,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+2279,8846,7,traMADol,(Ultram) 50 - 100 mg tablet oral every 6 hours PRN pain Maximum 200 mg/day IF CrCL < 30 mL/min,50,mg,every 6 hours,4
+2321,8970,0,levetiracetam,(Keppra) 500 mg tablet oral every 12 hours,500,mg,every 12 hours,14
+2333,9006,7,morphine injection Mott,2 mg IV once,2,mg,once,1
+234,677,7,dexamethasone,"3 mg tablet oral every 6 hours, stop after 4 Doses day#3",3,mg,every 6 hours,3
+242,689,9,simvastatin,(Zocor) 40 mg tablet oral at bedtime,40,mg,at bedtime,8
+2464,9536,7,docusate,100 mg capsule oral two times a day,100,mg,two times a day,19
+2485,9638,7,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,31
+251,715,3,calcitriol injection,(Calcijex) 2 microgram IV once,2,microgram,once,1
+2514,9728,1,gabapentin,(Neurontin) 300 mg capsule oral three times a day,300,mg,three times a day,55
+2526,9771,9,clindamycin IVPB UH,900 mg IV every 8 hours,900,mg,every 8 hours,16
+2541,9887,1,insulin Regular sliding scale_UH,"(HumuLIN R/NovoLIN R) subcutaneous every 6 hours
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 2
+For Blood Glucose 201 - 250 Give (units) 4
+For Blood Glucose 251 - 300 Give (units) 6
+For Blood Glucose 301 - 350 Give (units) 8
+For Blood Glucose 351 - 400 Give (units) 10
+For Blood Glucose > 400 Give (units) 12 Contact physician",.,unit,every 6 hours,7
+2581,10138,7,ondansetron injection UH,(Zofran) 4 mg IV every 6 hours PRN nausea,4,mg,every 6 hours,3
+2644,10471,1,levetiracetam,(Keppra) 500 mg tablet oral two times a day,500,mg,two times a day,7
+2671,10571,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,3
+2726,10844,1,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,2
+273,795,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,7
+2771,11036,1,oxyCODONE,5 - 10 mg tablet oral every 4 hours PRN pain,10,mg,every 4 hours,5
+2796,11167,1,insulin Lispro sliding scale_UH,"(HumaLOG) subcutaneous four times a day with meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 4
+For Blood Glucose 201 - 250 Give (units) 6
+For Blood Glucose 251 - 300 Give (units) 10
+For Blood Glucose 301 - 350 Give (units) 12
+For Blood Glucose 351 - 400 Give (units) 14
+For Blood Glucose > 400 Give (units) 16 Contact physician",.,unit,four times a day with meals,5
+2824,11271,7,clindamycin IVPB UH,"(Cleocin) 900 mg IV pre-procedure, stop after 1 Doses Give 30-60 mins prior to incision",900,mg,pre-procedure,1
+2879,11497,1,ferrous sulfate,324 mg tablet oral two times a day with meals,324,mg,two times a day with meals,7
+2879,11497,0,ferrous sulfate,324 mg tablet oral two times a day with meals,324,mg,two times a day with meals,7
+2885,11613,0,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,5
+2898,11673,3,morphine PCA 1 mg/mL - UH,"
+loading dose: 2 mg, may repeat only once after 15 minutes, every 24 hours
+demand dose: 05 mg, may change to: 08 mg if pain not controlled: 1) notify physician; 2) increase dose if the following assessment parameters are met: sedation score < 2; pulse ox > 92%; RR > 10; PCA dose delivered use > 50%; site of pain; new onset
+lockout interval: 10 minutes
+4 hour limit: 40 mg",.,each,PRN,2
+2903,11690,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol  If more is required, contact the House Officer",25,microgram,every 5 minutes,2
+2935,11799,1,docusate,100 mg capsule oral two times a day,100,mg,two times a day,3
+2992,11979,1,insulin Regular sliding scale_UH,"(Novolin R) subcutaneous two times a day with meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 2
+For Blood Glucose 201 - 250 Give (units) 4
+For Blood Glucose 251 - 300 Give (units) 6
+For Blood Glucose 301 - 350 Give (units) 8
+For Blood Glucose 351 - 400 Give (units) 10
+For Blood Glucose > 400 Give (units) 12 Contact physician",.,unit,two times a day with meals,4
+3035,12113,1,cefazolin IVPB UH,1 g IV every 8 hours,1,g,every 8 hours,43
+3036,12158,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,8
+3036,12158,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,8
+3038,12162,1,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain,1,tablet,every 4 hours,3
+3038,12162,7,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain,1,tablet,every 4 hours,3
+3038,12162,7,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain,1,tablet,every 4 hours,3
+3049,12207,1,bacitracin ointment,"apply topically to to incisions three times a day, stop after 3 Days Apply to incisions after cleaning",.,,three times a day,1
+3058,12220,7,fish oil,"2,000 mg capsule oral daily",2000,mg,daily,5
+3066,12239,1,docusate,(Colace) 100 mg capsule oral two times a day,100,mg,two times a day,6
+3081,12299,1,dexamethasone IVPB UH,8 mg IV every 8 hours,8,mg,every 8 hours,6
+3114,12420,7,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,46
+3175,12863,1,dexamethasone,3 mg tablet oral four times a day,3,mg,four times a day,4
+3189,12937,7,megestrol,(Megace) 800 mg suspension oral daily Liquid used for 800 mg doses( =20 x40 mg tabs),800,mg,daily,7
+3192,12950,1,potassium chloride injection UH,"10 mEq IV every 1 hour, stop after 6 Times",10,meq,every 1 hour,6
+3225,13108,0,ceFAZolin IVPB UH,"(Kefzol, Ancef) 2 g IV pre-procedure Give 30-60 mins prior to incision",2,g,pre-procedure,1
+3225,13108,1,ceFAZolin IVPB UH,"(Kefzol, Ancef) 2 g IV pre-procedure Give 30-60 mins prior to incision",2,g,pre-procedure,1
+3225,13108,1,ceFAZolin IVPB UH,"(Kefzol, Ancef) 2 g IV pre-procedure Give 30-60 mins prior to incision",2,g,pre-procedure,1
+3245,13196,1,calcium carbonate,"2,500 mg tablet oral every 6 hours Please give stat dose in PACU",2500,mg,every 6 hours,4
+328,985,7,cephalexin,(Keflex) 500 mg capsule oral four times a day,500,mg,four times a day,2
+3291,13451,5,docusate,(Colace) 100 mg capsule oral two times a day,100,mg,two times a day,2
+3309,13485,3,liothyronine,(Cytomel) 25 microgram tablet oral daily,25,microgram,daily,1
+3317,13571,2,multivitamin tablet,1 tablet oral daily,1,tablet,daily,2
+3376,13820,7,fentaNYL infusion UH,IV; start at 50 microgram/hour; max dose 200 microgram/hour; Titrate analgesia to individualized target,.,,PRN,1
+3385,13857,4,cefazolin IVPB UH,"(Kefzol, Ancef) 1 g IV every 8 hours, stop after 3 Times",1,g,every 8 hours,3
+3387,13860,7,morphine injection UH,"2 - 10 mg IV every 2 hours PRN Breakthrough pain
+Use other pain meds first",4,mg,every 2 hours,12
+3396,13884,4,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,1
+34,77,9,"nystatin suspension 100,000 units/mL",4 mL oral four times a day,4,ml,four times a day,33
+3412,13970,7,LORazepam,(Ativan) 05 - 1 mg tablet oral every 6 hours PRN agitation/anxiety,1,mg,every 6 hours,14
+3418,13982,9,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,4
+3433,14023,1,ranitidine,(Zantac) 150 mg syrup oral two times a day,150,mg,two times a day,2
+3485,14242,1,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,3
+3507,14377,1,propoxyphene/acetaminophen 100mg/650mg,(Darvocet-N 100) 1 - 2 tablet oral every 4 hours PRN pain,1,tablet,every 4 hours,3
+3507,14377,9,propoxyphene/acetaminophen 100mg/650mg,(Darvocet-N 100) 1 - 2 tablet oral every 4 hours PRN pain,1,tablet,every 4 hours,3
+3507,14377,1,propoxyphene/acetaminophen 100mg/650mg,(Darvocet-N 100) 1 - 2 tablet oral every 4 hours PRN pain,1,tablet,every 4 hours,3
+3530,14535,4,acetaminophen UH,(Tylenol) 325 mg tablet oral every 4 hours PRN mild pain,325,mg,every 4 hours,3
+3543,14569,5,docusate,(Colace) 100 mg capsule oral two times a day,100,mg,two times a day,2
+355,1064,9,calcium carbonate,"(Tums) 500 mg tablet, chewable oral two times a day",500,mg,two times a day,17
+3565,14646,3,simvastatin,(Zocor) 20 mg tablet oral at bedtime,20,mg,at bedtime,1
+3608,14755,1,ondansetron injection UH,(Zofran) 4 - 8 mg IV every 6 hours PRN Nausea/Vomiting,2,mg,every 6 hours,3
+3641,14878,3,oxycodone,5 - 10 mg solution oral every 4 hours PRN Pain,10,mg,every 4 hours,12
+3645,14887,7,ferrous sulfate,324 mg tablet oral three times a day with meals,324,mg,three times a day with meals,47
+3648,14900,2,heparin injection,"5,000 unit subcutaneous every 8 hours",5000,unit,every 8 hours,31
+3736,15228,1,meclizine,(Antivert) 125 mg tablet oral once,12.5,mg,once,1
+3788,15438,1,morphine injection UH,2 - 4 mg IV every 4 hours PRN severe Pain not controlled with oral meds,3,mg,every 4 hours,1
+379,1185,4,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,6
+3812,15554,7,morphine PCA 1 mg/mL - UH,"
+loading dose: 2 mg every 8 hours prn, may repeat once after 15 min;   To initiate therapy or pain out of control
+demand dose: 1 mg, may change to: 15 mg if pain not controlled
+lockout interval: 6 minutes
+continuous: 15 mg/hr
+4 hour limit: 50 mg",.,each,PRN,8
+3834,15627,4,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,1,tablet,every 4 hours,2
+3839,15650,1,metoprolol,(Lopressor) 125 mg tablet oral two times a day Please hold for SBP less than 100 HR less than 60,12.5,mg,two times a day,2
+3851,15717,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,9
+3860,15785,7,docusate,(Colace) 100 mg capsule oral three times a day,100,mg,three times a day,15
+3864,15794,1,metFORMIN,"(Glucophage) 1,000 mg tablet oral two times a day with meals",1000,mg,two times a day with meals,8
+3871,15830,1,amLODIPine/benazepril,(Lotrel 10/40) 1 each oral daily,1,each,daily,3
+3921,16032,9,methylPREDNISolone IVPB UH,(Solu-Medrol) 60 mg IV every 6 hours,60,mg,every 6 hours,6
+3972,16270,4,polyvinyl alcohol eye drops,"(artificial tears) 2 - 3 drop eyes, both every 1 hour, stop after 7 Days Give before opth drops so as not to wash them out",2,drop,every 1 hour,8
+3987,16319,1,calcium carbonate,"1,250 mg tablet oral three times a day with meals",1250,mg,three times a day with meals,2
+4016,16426,1,senna,(Senokot) 2 tablet oral at bedtime,2,tablet,at bedtime,5
+4031,16514,1,acetaminophen/codeine 300mg/30 mg,(Tylenol #3) 1 - 2 tablet oral every 4 hours PRN Pain/fever,2,tablet,every 4 hours,1
+4043,16540,7,insulin Aspart sliding scale_UH,"(Novolog) subcutaneous four times a day before meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 4
+For Blood Glucose 201 - 250 Give (units) 6
+For Blood Glucose 251 - 300 Give (units) 10
+For Blood Glucose 301 - 350 Give (units) 12
+For Blood Glucose 351 - 400 Give (units) 14
+For Blood Glucose > 400 Give (units) 16 Contact physician",.,unit,four times a day before meals,23
+4043,16540,9,insulin Aspart sliding scale_UH,"(Novolog) subcutaneous four times a day before meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 4
+For Blood Glucose 201 - 250 Give (units) 6
+For Blood Glucose 251 - 300 Give (units) 10
+For Blood Glucose 301 - 350 Give (units) 12
+For Blood Glucose 351 - 400 Give (units) 14
+For Blood Glucose > 400 Give (units) 16 Contact physician",.,unit,four times a day before meals,23
+4046,16577,3,triamcinolone 01% in WWB,apply topically two times a day,.,,two times a day,8
+4077,16741,2,fentanyl injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,2
+408,1244,8,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,12
+4106,16875,1,fentanyl injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,2
+4123,16996,5,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,27
+4173,17205,4,GI cocktail,12 mL suspension oral every 2 hours PRN stomach/chest pain Please offer to patient,12,ml,every 2 hours,38
+4200,17335,3,acetaminophen UH,500 mg tablet oral every 6 hours,500,mg,every 6 hours,29
+4208,17365,0,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,1,tablet,every 4 hours,8
+4208,17365,3,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,1,tablet,every 4 hours,8
+4244,17548,3,acetaminophen UH,650 mg solution oral every 4 hours PRN Mild pain/Fever/Discomfort Maximum Acetaminophen 4g in 24 hours from all sources,650,mg,every 4 hours,8
+4248,17555,7,calcium carbonate,"1,250 mg tablet oral three times a day with meals",1250,mg,three times a day with meals,6
+4298,17768,5,doxycycline  syrup,(Vibramycin) 100 mg oral two times a day,100,mg,two times a day,5
+4309,17819,7,glipiZIDE XL,"(Glucotrol XL) 25 mg tablet, extended release oral before breakfast patient unsure if she takes 25mg or 5mg--expect short stay",2.5,mg,before breakfast,2
+4332,17930,1,tamsulosin,(Flomax) 04 mg capsule oral daily,0.4,mg,daily,16
+4355,18107,1,dexamethasone,"4 mg tablet oral every 6 hours, stop after 4 Doses",4,mg,every 6 hours,4
+4396,18249,7,clonidine,(Catapres) 01 mg tablet oral two times a day,0.1,mg,two times a day,8
+4405,18303,1,meperidine injection,125 mg IV as directed PRN shivering Maximum total dose of 25 mg May repeat x1 in 5 minutes if unrelieved  Per PACU protocol,12.5,mg,as directed,2
+441,1343,0,ceFAZolin IVPB UH,"(Kefzol, Ancef) 2 g IV pre-procedure, stop after 1 Doses Give 30-60 mins prior to incision",2,g,pre-procedure,1
+4416,18354,5,citalopram,(Celexa) 20 mg tablet oral daily,20,mg,daily,5
+4442,18466,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,4
+4455,18517,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,4
+4485,18674,4,lovastatin,(Mevacor) 20 mg tablet oral at bedtime,20,mg,at bedtime,7
+4489,18681,1,09%NaCl,"1,000 mL 150 mL/hr IV",.,ml/hr,<Continuous>,1
+4489,18681,1,09%NaCl,"1,000 mL 150 mL/hr IV",.,ml/hr,<Continuous>,1
+4506,18751,1,D5% 045%NaCl,"1,000 mL 100 mL/hr IV",.,ml/hr,<Continuous>,2
+4519,18796,1,dexamethasone injection UH,"4 mg IV every 6 hours, stop after 1 Days",4,mg,every 6 hours,5
+4539,18861,3,ampicillin/sulbactam IVPB UH,(Unasyn) 3 g IV pre-op,3,g,pre-op,1
+4564,18955,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,1,tablet,every 4 hours,1
+4579,19003,1,hydrochlorothiazide,125 mg capsule oral daily,12.5,mg,daily,2
+4579,19003,1,hydrochlorothiazide,125 mg capsule oral daily,12.5,mg,daily,2
+4604,19141,7,acetaminophen UH,"1,000 mg tablet oral once PRN pain/fever",1000,mg,once,1
+4629,19325,7,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,1
+4629,19325,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,1
+4653,19450,2,09%NaCl,"1,000 mL 100 mL/hr IV",.,ml/hr,<Continuous>,2
+472,1446,7,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,1
+4791,19990,7,ceFAZolin IVPB UH,"(Kefzol, Ancef) 1 g IV every 8 hours",1,g,every 8 hours,8
+4791,19990,7,ceFAZolin IVPB UH,"(Kefzol, Ancef) 1 g IV every 8 hours",1,g,every 8 hours,8
+4798,20021,1,dexamethasone injection UH,"2 mg IV every 6 hours, stop after 4 Doses",2,mg,every 6 hours,4
+4798,20021,0,dexamethasone injection UH,"2 mg IV every 6 hours, stop after 4 Doses",2,mg,every 6 hours,4
+4838,20201,2,metoprolol,(Lopressor) 25 mg tablet oral once,25,mg,once,1
+4875,20384,7,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,4
+4907,20492,3,ondansetron injection UH,"(Zofran) 4 mg IV once PRN nausea/vomiting
+Do not repeat Use for rescue, use first per PACU antiemetic Guidelines",4,mg,once,1
+4914,20509,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,2
+4923,20539,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,2
+4950,20640,3,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,2
+4956,20690,1,calcium carbonate,"1,250 mg tablet oral three times a day with meals",1250,mg,three times a day with meals,4
+500,1527,2,09%NaCl,"1,000 mL 125 mL/hr IV",.,ml/hr,<Continuous>,3
+5029,20997,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,3
+503,1542,3,Dilaudid 10 mcg/mL+bupiv 00625% - UH,"epidurally
+initial (one-time) clinician bolus: 5 mL
+continuous rate: 8 mL/hr
+demand dose: 2 mL
+lockout interval: 20 minutes",.,ml/hr,PRN,7
+5037,21020,0,polyvinyl alcohol eye drops,"(artificial tears) 3 drop eye, left three times a day",3,drop,three times a day,1
+5062,21104,2,ranitidine,(Zantac) 150 mg tablet oral two times a day May give PO/Tube,150,mg,two times a day,11
+5078,21149,7,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,1
+5103,21235,1,HYDROmorphone =/> 50 kg or 13 yr,(Dilaudid) 01 - 04 mg IV every 10 minutes PRN severe pain For patients with hydromorphone PCA orders,0.4,mg,every 10 minutes,5
+5143,21386,3,D5% LR,"1,000 mL 125 mL/hr IV",.,ml/hr,<Continuous>,2
+5187,21657,4,simethicone,"(Mylicon) 80 mg tablet, chewable oral every 6 hours PRN distention",80,mg,every 6 hours,1
+527,1609,7,morphine buccal,(Roxanol) 5 - 10 mg solution buccal every 4 hours PRN Pain,10,mg,every 4 hours,22
+5291,22072,1,calcium carbonate,"1,250 mg tablet oral three times a day with meals Dr Miller's requestion at 11pm, 7am, and 3pm STAT doses",1250,mg,three times a day with meals,2
+531,1621,3,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,1,tablet,every 4 hours,4
+5330,22185,2,cetylpyridinium/menthol lozenge,(Cepacol) 1 - 2 lozenge oral every 4 hours,1,lozenge,every 4 hours,7
+5347,22244,3,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 tablet oral every 4 hours PRN Pain Do not exceed more than 2 grams acetaminophen per 24 hours,1,tablet,every 4 hours,2
+5347,22244,3,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 tablet oral every 4 hours PRN Pain Do not exceed more than 2 grams acetaminophen per 24 hours,1,tablet,every 4 hours,2
+5352,22286,3,HYDROcodone/acetamin 75mg/500mg/15mL,(Lortab elixir) 10 - 20 mL solution oral every 4 hours PRN Pain,20,ml,every 4 hours,6
+5379,22416,1,calcium carbonate,"1,250 mg tablet oral three times a day with meals",1250,mg,three times a day with meals,3
+5384,22441,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,89
+5393,22473,3,enoxaparin injection UH - prophylaxis,(Lovenox) 40 mg subcutaneous daily,40,mg,daily,1
+5393,22473,7,enoxaparin injection UH - prophylaxis,(Lovenox) 40 mg subcutaneous daily,40,mg,daily,1
+5402,22499,7,Dilaudid 10 mcg/mL+bupiv 00625% - UH,"epidurally
+initial (one-time) clinician bolus: 5 mL
+continuous rate: 5 mL/hr
+demand dose: 2 mL
+lockout interval: 20 minutes",.,ml/hr,PRN,2
+5446,22669,7,morphine injection UH,"2 - 5 mg IV every 3 hours PRN severe pain
+Use if pain not adequately controlled with lower dosage",2,mg,every 3 hours,1
+5446,22669,9,morphine injection UH,"2 - 5 mg IV every 3 hours PRN severe pain
+Use if pain not adequately controlled with lower dosage",2,mg,every 3 hours,1
+5448,22686,1,gabapentin,(Neurontin) 300 mg capsule oral three times a day,300,mg,three times a day,35
+5455,22730,9,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,4
+5500,22914,1,calcium carbonate,"1,250 mg tablet oral three times a day with meals",1250,mg,three times a day with meals,3
+5516,22966,2,clindamycin IVPB UH,300 mg IV every 8 hours,300,mg,every 8 hours,24
+5517,22968,5,docusate,100 mg capsule oral two times a day,100,mg,two times a day,31
+5550,23143,1,oxyCODONE/acetaminophen 5mg/325mg,(Percocet) 1 - 2 tablet oral every 4 hours PRN pain,1,tablet,every 4 hours,1
+5557,23170,2,levothyroxine,(Synthroid) 50 microgram tablet oral daily,50,microgram,daily,3
+5557,23170,9,levothyroxine,(Synthroid) 50 microgram tablet oral daily,50,microgram,daily,3
+5590,23318,7,morphine injection UH,2 - 4 mg IV every 4 hours PRN Pain,4,mg,every 4 hours,13
+5591,23322,1,insulin Regular sliding scale_UH,"(Novolin R) subcutaneous four times a day before meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 2
+For Blood Glucose 201 - 250 Give (units) 4
+For Blood Glucose 251 - 300 Give (units) 6
+For Blood Glucose 301 - 350 Give (units) 8
+For Blood Glucose 351 - 400 Give (units) 10
+For Blood Glucose > 400 Give (units) 12 Contact physician",.,unit,four times a day before meals,3
+56,138,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,5
+5602,23378,9,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,7
+5602,23378,3,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,7
+5604,23409,3,ketorolac injection UH,(Toradol) 15 mg IV once,15,mg,once,1
+5650,23573,1,sodium phosphate/potassium phosphate,(Neutra-Phos) 2 packet powder for reconstitution oral two times a day,2,packet,two times a day,1
+5693,23722,7,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,29
+5761,24175,3,09%NaCl,"1,000 mL 80 mL/hr IV",.,ml/hr,<Continuous>,1
+5821,24362,3,insulin Lispro sliding scale_UH,"(HumaLOG) subcutaneous three times a day before meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 0
+For Blood Glucose 201 - 250 Give (units) 2
+For Blood Glucose 251 - 300 Give (units) 4
+For Blood Glucose 301 - 350 Give (units) 6
+For Blood Glucose 351 - 400 Give (units) 8
+For Blood Glucose > 400 Give (units) 10 Contact physician",.,unit,three times a day before meals,2
+5865,24493,9,ALPRAZolam,(Xanax) 025 mg tablet oral two times a day PRN anxiety,0.25,mg,two times a day,1
+5865,24493,1,ALPRAZolam,(Xanax) 025 mg tablet oral two times a day PRN anxiety,0.25,mg,two times a day,1
+5880,24526,1,thiamine,100 mg tablet oral two times a day,100,mg,two times a day,14
+5921,24710,3,diphenhydrAMINE (multiroute) - UH,"(Benadryl) 25 mg IV/PO every 6 hours PRN pruritis
+May be administered IV or PO",25,mg,every 6 hours,1
+5926,24731,7,aspirin enteric coated - UH,81 mg oral daily,81,mg,daily,1
+5926,24731,2,aspirin enteric coated - UH,81 mg oral daily,81,mg,daily,1
+5943,24783,9,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,2
+602,1792,8,09%NaCl,"1,000 mL 100 mL/hr IV",.,ml/hr,<Continuous>,3
+6044,25195,9,LORazepam injection UH,"(Ativan) 05 mg IV as directed
+on hold for MRI",0.5,mg,as directed,2
+6054,25248,5,insulin Aspart sliding scale_UH,"(Novolog) subcutaneous four times a day before meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 4
+For Blood Glucose 201 - 250 Give (units) 6
+For Blood Glucose 251 - 300 Give (units) 10
+For Blood Glucose 301 - 350 Give (units) 12
+For Blood Glucose 351 - 400 Give (units) 14
+For Blood Glucose > 400 Give (units) 16 Contact physician",.,unit,four times a day before meals,21
+6061,25272,2,oxyCODONE,5 - 15 mg solution oral every 3 hours PRN Pain,10,mg,every 3 hours,8
+6137,25698,1,oxyCODONE/acetaminophen 5mg/325mg,(Percocet) 1 - 2 tablet oral every 4 hours PRN pain,1,tablet,every 4 hours,5
+619,1835,8,docusate,(Colace) 100 mg capsule oral two times a day,100,mg,two times a day,16
+62,153,1,water for injection/,";
+1,000 mL, sodium bicarbonate additive 150 mEq, potassium chloride additive 10 mEq 250 mL/hr IV, stop after 14 Hours",.,ml/hr,,1
+6289,26299,1,dronabinol,(Marinol) 25 mg capsule oral every 6 hours,2.5,mg,every 6 hours,2
+6319,26413,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,1,tablet,every 4 hours,5
+6370,26670,1,ibuprofen UH,(Motrin) 600 mg tablet oral every 6 hours PRN mild pain,600,mg,every 6 hours,1
+6389,26765,3,heparin injection,"5,000 unit subcutaneous pre-procedure Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+6394,26776,3,heparin injection,"5,000 unit subcutaneous pre-op",5000,unit,pre-op,1
+6399,26806,2,acetaminophen UH,"650 mg solution, oral oral every 4 hours",650,mg,every 4 hours,12
+6410,26866,1,levetiracetam,(Keppra) 750 mg tablet oral two times a day,750,mg,two times a day,3
+6410,26866,8,levetiracetam,(Keppra) 750 mg tablet oral two times a day,750,mg,two times a day,3
+6411,26900,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain,2,tablet,every 4 hours,6
+6418,26949,9,ondansetron injection Mott,"(Zofran) 7 mg IV every 6 hours PRN nausea/vomiting For nausea/vomiting (IV form), first use ondansetron; second use diphenhydramine",7,mg,every 6 hours,1
+6418,26949,8,ondansetron injection Mott,"(Zofran) 7 mg IV every 6 hours PRN nausea/vomiting For nausea/vomiting (IV form), first use ondansetron; second use diphenhydramine",7,mg,every 6 hours,1
+6418,26949,8,ondansetron injection Mott,"(Zofran) 7 mg IV every 6 hours PRN nausea/vomiting For nausea/vomiting (IV form), first use ondansetron; second use diphenhydramine",7,mg,every 6 hours,1
+6418,26949,9,ondansetron injection Mott,"(Zofran) 7 mg IV every 6 hours PRN nausea/vomiting For nausea/vomiting (IV form), first use ondansetron; second use diphenhydramine",7,mg,every 6 hours,1
+6420,26966,8,heparin infusion for DVT/PE Nomogram,"1,960 Units-hr = 196 mL/hr IV",.,ml/hr,PRN,7
+6444,27063,2,lidocaine 5% patch,(Lidoderm) 1 patch apply topically daily,.,,daily,6
+6453,27100,1,omeprazole,(Prilosec) 20 mg capsule oral daily,20,mg,daily,3
+6453,27100,2,omeprazole,(Prilosec) 20 mg capsule oral daily,20,mg,daily,3
+6464,27191,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,4
+6479,27303,1,dexamethasone injection UH,"2 mg IV daily, stop after 48 Hours",2,mg,daily,2
+6479,27303,8,dexamethasone injection UH,"2 mg IV daily, stop after 48 Hours",2,mg,daily,2
+649,1905,7,ondansetron injection UH,"(Zofran) 4 mg IV once PRN nausea/vomiting
+Do not repeat Use for rescue, use first per PACU antiemetic Guidelines",4,mg,once,1
+6565,27743,9,fentanyl injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,1
+6612,27942,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,2
+662,1934,1,levetiracetam,(Keppra) 500 mg tablet oral two times a day,500,mg,two times a day,4
+6644,28118,7,heparin injection,"5,000 unit subcutaneous pre-procedure Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+6680,28281,3,clindamycin IVPB UH,(Cleocin) 600 mg IV every 8 hours,600,mg,every 8 hours,8
+6680,28281,9,clindamycin IVPB UH,(Cleocin) 600 mg IV every 8 hours,600,mg,every 8 hours,8
+6689,28327,1,morphine injection Mott,18 mg IV every 3 hours PRN Pain,1.8,mg,every 3 hours,1
+6693,28371,4,tiotropium 18 mcg capsule for inhalation,(Spiriva) 18 microgram inhaled daily,18,microgram,daily,5
+6722,28611,4,ondansetron injection UH,"(Zofran) 4 mg IV once PRN nausea/vomiting
+Do not repeat Use for rescue, use first per PACU antiemetic Guidelines",4,mg,once,1
+6727,28623,9,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+6728,28624,1,docusate,(Colace) 100 mg capsule oral two times a day,100,mg,two times a day,2
+6767,28830,8,indomethacin,(Indocin) 25 mg capsule oral every 6 hours,25,mg,every 6 hours,12
+6805,29087,3,heparin injection,"5,000 unit subcutaneous pre-procedure, stop after 1 Days OR 2 @ 1145 (2/9)
+Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+6810,29103,1,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN moderate pain,1,tablet,every 4 hours,11
+6828,29209,1,insulin Lispro sliding scale_UH,"(HumaLOG) subcutaneous three times a day with meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 4
+For Blood Glucose 201 - 250 Give (units) 6
+For Blood Glucose 251 - 300 Give (units) 10
+For Blood Glucose 301 - 350 Give (units) 12
+For Blood Glucose 351 - 400 Give (units) 14
+For Blood Glucose > 400 Give (units) 16 Contact physician",.,unit,three times a day with meals,9
+6878,29577,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,3
+6913,29831,9,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,2
+6950,29974,2,acetaminophen UH,325 - 650 mg tablet oral once PRN pain/fever,650,mg,once,1
+6973,30047,7,insulin Lispro sliding scale_UH,"(HumaLOG) subcutaneous four times a day before meals
+For Blood Glucose < 70 Follow hypoglycemic protocol
+For Blood Glucose 70 - 150 Give (units) 0
+For Blood Glucose 151 - 200 Give (units) 4
+For Blood Glucose 201 - 250 Give (units) 6
+For Blood Glucose 251 - 300 Give (units) 10
+For Blood Glucose 301 - 350 Give (units) 12
+For Blood Glucose 351 - 400 Give (units) 14
+For Blood Glucose > 400 Give (units) 16 Contact physician",.,unit,four times a day before meals,2
+6985,30091,9,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,19
+699,2021,9,acetaminophen UH,325 - 650 mg tablet oral every 4 hours PRN pain/fever,650,mg,every 4 hours,18
+7002,30147,3,irinotecan infusion,"(Camptosar); Day(s) of cycle: DAYS 1-5;
+76 mg IV every 24 hours, infuse over 90 minutes, stop after 5 Doses, 50 mg/m2/DOSE x 151 m2 = 76 mg/Dose     (Requested dose was 50 mg per m2), D5% 500 mL",76,mg,every 24 hours,5
+7013,30190,3,HYDROcodone/acetamin 75mg/500mg/15mL,(Lortab elixir) 5 - 10 mL solution oral every 4 hours PRN pain,10,ml,every 4 hours,2
+7063,30387,3,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain Maximum of 4g/day of acetaminophin total,1,tablet,every 4 hours,2
+7233,31253,1,acetaminophen/codeine 300mg/30 mg,(Tylenol #3) 1 - 2 tablet tablet oral every 6 hours PRN Pain,1,tablet,every 6 hours,1
+7244,31293,7,acetaminophen UH,"650 mg solution, oral oral every 6 hours PRN Pain/fever",325,mg,every 6 hours,5
+7270,31446,1,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,2
+7270,31446,1,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,2
+7287,31560,9,ampicillin/sulbactam IVPB UH,"(Unasyn) 3 g IV every 6 hours, stop after 4 Times",3,g,every 6 hours,4
+7309,31729,9,ondansetron injection UH,"(Zofran) 4 mg IV once PRN nausea/vomiting
+Do not repeat Use for rescue, use first per PACU antiemetic Guidelines",4,mg,once,1
+7337,31824,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,3
+7354,31887,2,ampicillin/sulbactam IVPB UH,(Unasyn) 3 g IV pre-procedure Give 1 hour prior to procedure,3,g,pre-procedure,1
+7373,31984,9,ampicillin/sulbactam IVPB UH,(Unasyn) 15 g IV pre-op,1.5,g,pre-op,1
+74,197,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,1
+7437,32254,1,levothyroxine,(Synthroid) 125 microgram tablet oral daily,125,microgram,daily,1
+7437,32254,0,levothyroxine,(Synthroid) 125 microgram tablet oral daily,125,microgram,daily,1
+7465,32375,9,morphine injection UH,"2 - 5 mg IV every 2 hours PRN severe pain
+Use if pain not adequately controlled with lower dosage",4,mg,every 2 hours,9
+7514,32634,7,pantoprazole injection UH,40 mg IV every 12 hours,40,mg,every 12 hours,1
+7554,32833,1,calcium carbonate,"1,250 mg tablet oral every 8 hours Dr Miller requests her patients receive every 8 hours",1250,mg,every 8 hours,2
+7557,32845,1,docusate,(Colace) 100 mg capsule oral two times a day,100,mg,two times a day,2
+7563,32899,3,dexamethasone (multiroute),10 mg IV every 6 hours,10,mg,every 6 hours,5
+7585,33027,3,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,1,tablet,every 4 hours,3
+7588,33042,0,cefazolin IVPB UH,1 g IV pre-op,2,g,pre-op,1
+7588,33042,9,cefazolin IVPB UH,1 g IV pre-op,2,g,pre-op,1
+7600,33116,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,17
+7600,33116,9,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,17
+77,205,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,5
+7743,33983,1,pantoprazole injection UH,40 mg IV every 12 hours,40,mg,every 12 hours,9
+7749,34001,9,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,5
+7751,34013,3,duloxetine,(Cymbalta) 60 mg capsule oral daily,60,mg,daily,2
+7758,34057,2,aspirin enteric coated - UH,81 mg oral daily,81,mg,daily,1
+7779,34193,1,pantoprazole,"(Protonix) 40 mg tablet, enteric coated oral daily",40,mg,daily,2
+7784,34230,1,ondansetron injection UH,(Zofran) 4 mg IV every 6 hours PRN Refractory post-op nausea/vomiting,4,mg,every 6 hours,1
+7852,34589,4,acetaminophen UH,"325 - 650 mg tablet oral every 4 hours PRN pain/fever do not exceed 4,000 mg of tylenol in one day; patient also taking 325 mg per tab of Norco",650,mg,every 4 hours,2
+7895,34799,7,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",2,mg,every 10 minutes,8
+7900,34919,3,cefazolin IVPB UH,"(Kefzol, Ancef) 1 g IV every 8 hours, stop after 3 Times",1,g,every 8 hours,3
+7900,34919,2,cefazolin IVPB UH,"(Kefzol, Ancef) 1 g IV every 8 hours, stop after 3 Times",1,g,every 8 hours,3
+7901,34935,1,albuterol inhaler,2 puff inhaled every 4 hours with spacer RT please page MD if you feel appropriate to space to prn Thank you!,2,puff,every 4 hours,17
+7913,35022,1,cefazolin IVPB UH,"(Kefzol, Ancef) 1 g IV every 8 hours",1,g,every 8 hours,3
+7917,35041,4,clindamycin IVPB UH,(Cleocin) 900 mg IV every 8 hours,900,mg,every 8 hours,8
+7921,35049,1,oxyCODONE,5 - 15 mg tablet oral every 3 hours PRN moderate pain,5,mg,every 3 hours,2
+7942,35144,9,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,22
+7978,35387,1,ondansetron injection UH,"(Zofran) 4 mg IV once PRN nausea/vomiting
+Do not repeat Use for rescue, use first per PACU antiemetic Guidelines",4,mg,once,1
+7985,35498,2,heparin injection,"5,000 unit subcutaneous two times a day",5000,unit,two times a day,9
+7993,35546,9,methazolamide,(Neptazane) 50 mg tablet oral two times a day,50,mg,two times a day,12
+8033,35780,4,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+8034,35782,2,simvastatin,(Zocor) 20 mg tablet oral at bedtime,20,mg,at bedtime,10
+8068,36064,1,dexamethasone injection UH,6 mg IV every 6 hours,6,mg,every 6 hours,16
+8079,36152,1,digoxin  solution,(Lanoxin) 0125 mg oral daily,0.125,mg,daily,23
+8092,36202,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN pain,1,tablet,every 4 hours,1
+8092,36202,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN pain,1,tablet,every 4 hours,1
+8092,36202,0,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN pain,1,tablet,every 4 hours,1
+8107,36293,3,ampicillin/sulbactam IVPB UH,(Unasyn) 15 g IV pre-procedure Give 1 hour prior to procedure,1.5,g,pre-procedure,1
+8129,36405,9,ondansetron injection/,"(Zofran); Day(s) of cycle: [DAYS 1-2];
+24 mg IV every 24 hours, stop after 2 Times Start 30 minutes prior to chemotherapy",24,mg,every 24 hours,2
+8133,36417,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",1,mg,every 10 minutes,4
+8137,36429,1,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,2
+8155,36522,9,levetiracetam,"(Keppra) 1,500 mg tablet oral two times a day",1500,mg,two times a day,16
+8157,36541,9,prochlorperazine (multiroute),(Compazine) 10 mg PO five times a day PRN Nausea/Vomiting,10,mg,five times a day,2
+8158,36554,9,ampicillin/sulbactam IVPB UH,(Unasyn) 3 g IV every 6 hours,3,g,every 6 hours,27
+8168,36626,2,lorazepam injection UH,(Ativan) 2 - 3 mg IV every 1 hour PRN agitation,2,mg,every 1 hour,5
+8168,36626,1,lorazepam injection UH,(Ativan) 2 - 3 mg IV every 1 hour PRN agitation,2,mg,every 1 hour,5
+8168,36626,1,lorazepam injection UH,(Ativan) 2 - 3 mg IV every 1 hour PRN agitation,2,mg,every 1 hour,5
+8170,36630,7,"nystatin suspension 100,000 units/mL",5 mL oral four times a day,5,ml,four times a day,4
+8187,36765,9,doxazosin,(Cardura) 4 mg tablet oral daily,4,mg,daily,3
+8197,36870,4,furosemide,(Lasix) 20 mg tablet oral daily,20,mg,daily,2
+8201,36877,2,thiamine,100 mg tablet oral daily,100,mg,daily,2
+8204,36888,9,doxazosin,(Cardura) 1 mg tablet oral daily,1,mg,daily,2
+8205,36891,9,morphine PCA 1 mg/mL - UH,"
+loading dose: 3 mg every 8 hours prn, may repeat once after 15 min;   To initiate therapy or pain out of control
+demand dose: 1 mg, may change to: 15 mg if pain not controlled
+lockout interval: 8 minutes
+4 hour limit: 30 mg",.,each,PRN,2
+8207,36908,2,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,34
+8214,36931,2,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,26
+8226,37002,7,oxycodone,5 - 15 mg solution oral every 4 hours PRN Pain,10,mg,every 4 hours,44
+8229,37023,3,heparin injection,"5,000 unit subcutaneous two times a day",5000,unit,two times a day,2
+8232,37055,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",2,mg,every 10 minutes,5
+8232,37055,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",2,mg,every 10 minutes,5
+8244,37174,4,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,2
+8252,37210,9,D5% 045%NaCl + 20 mEq KCl/L,"1,000 mL @ 100 mL/hr IV, Saline-lock when tolerating oral fluids",.,ml/hr,<Continuous>,1
+8253,37215,4,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,28
+8280,37407,3,D5% 045%NaCl + 20 mEq KCl/L,"1,000 mL @ 75 mL/hr IV, Saline-lock when tolerating oral fluids",.,ml/hr,<Continuous>,1
+8281,37408,3,ondansetron injection UH,(Zofran) 4 mg IV every 6 hours PRN Refractory post-op nausea/vomiting,4,mg,every 6 hours,1
+8288,37429,9,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,27
+8299,37462,4,D5% 045%NaCl + 20 mEq KCl/L,"1,000 mL @ 100 mL/hr IV",.,ml/hr,<Continuous>,1
+8309,37505,4,fentanyl injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,4
+8314,37561,1,calcium carbonate,"1,250 mg tablet oral once PRN Pls give during blood draw",1250,mg,once,1
+8329,37630,9,docusate,100 mg capsule oral two times a day,100,mg,two times a day,7
+8340,37738,9,dexamethasone (multiroute),"4 mg IV/PO every 6 hours, stop after 4 Times May be administered IV or PO",4,mg,every 6 hours,4
+8348,37790,9,dexamethasone (multiroute),"6 mg IV/PO every 6 hours, stop after 4 Times May be administered IV or PO",6,mg,every 6 hours,4
+8357,37808,1,hydrALAZINE injection UH,"(Apresoline) 5 - 10 mg IV every 1 hour PRN hypertension
+GIVE FOR
+SBP greater than: 160 Goal SBP < 160; Use if HR < 60",10,mg,every 1 hour,19
+8369,37938,1,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain,1,tablet,every 4 hours,5
+837,2247,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,2
+837,2247,3,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,2
+8416,38150,7,fluticasone/salmeterol 500/50 Diskus,(Advair) 1 puff inhaled two times a day,1,puff,two times a day,12
+8427,38227,1,morphine PCA 1 mg/mL - UH,"
+loading dose: 2 mg, may repeat only once after 15 minutes, every 24 hours
+demand dose: 05 mg, may change to: 08 mg if pain not controlled: 1) notify physician; 2) increase dose if the following assessment parameters are met: sedation score < 2; pulse ox > 92%; RR > 10; PCA dose delivered use > 50%; site of pain; new onset
+lockout interval: 10 minutes
+4 hour limit: 40 mg",.,each,PRN,8
+8427,38227,0,morphine PCA 1 mg/mL - UH,"
+loading dose: 2 mg, may repeat only once after 15 minutes, every 24 hours
+demand dose: 05 mg, may change to: 08 mg if pain not controlled: 1) notify physician; 2) increase dose if the following assessment parameters are met: sedation score < 2; pulse ox > 92%; RR > 10; PCA dose delivered use > 50%; site of pain; new onset
+lockout interval: 10 minutes
+4 hour limit: 40 mg",.,each,PRN,8
+8428,38238,2,diphenhydrAMINE (multiroute) - UH,"(Benadryl) 25 - 50 mg IV/PO at bedtime PRN Insomnia
+May be administered IV or PO or Tube Use as first-line agent for insomnia",25,mg,at bedtime,2
+8482,38514,1,acetaminophen (multiroute) - Mott,"650 mg PO/PR every 4 hours PRN mild pain or fever May be administered PO or PR 650mg - 1000mg, no more than 4 grams per day",650,mg,every 4 hours,16
+8489,38586,7,acetaminophen UH,"1,000 mg tablet oral every 6 hours",1000,mg,every 6 hours,9
+8519,38832,5,dexamethasone IVPB UH,10 mg IV pre-op,10,mg,pre-op,1
+8527,38854,1,calcium carbonate,"2,500 mg tablet oral three times a day with meals",2500,mg,three times a day with meals,1
+8535,38902,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain,1,tablet,every 4 hours,1
+8537,38919,1,ranitidine IVPB UH,(Zantac) 50 mg IV every 8 hours,50,mg,every 8 hours,45
+8559,38987,7,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+8574,39039,1,cefazolin IVPB UH,"(Kefzol, Ancef) 1 g IV every 8 hours",1,g,every 8 hours,3
+8591,39151,1,HYDROcodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+8603,39208,1,nitrofurantoin monohydrate/macrocrystals,"(Macrobid) 100 mg capsule oral two times a day, stop after 5 Days",100,mg,two times a day,2
+8662,39513,2,ranitidine IVPB UH,(Zantac) 50 mg IV every 8 hours,50,mg,every 8 hours,11
+8745,39927,3,bacitracin ointment,"apply topically to to incisions three times a day, stop after 3 Days Apply to incisions after cleaning",.,,three times a day,3
+8762,40047,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,17
+8851,40490,1,lorazepam,(Ativan) 05 mg tablet oral every 6 hours PRN anxiety,0.5,mg,every 6 hours,1
+8857,40510,2,sotalol,(Betapace) 120 mg tablet oral two times a day,120,mg,two times a day,2
+8894,40695,7,lisinopril,(Zestril) 20 mg tablet oral daily,20,mg,daily,4
+8902,40757,5,cefazolin IVPB UH,"(Kefzol, Ancef) 2 g IV pre-procedure, stop after 1 Times Give 1 hour prior to procedure
+OR 3 @ 0830 ON THURS 10/15
+DOSE OPTIMIZATION PROTOCOL FOR PT >/= 80KG",2,g,pre-procedure,1
+891,2447,4,chlorhexidine gluconate 012% oral rinse,(Peridex) 10 mL liquid oral two times a day Swab to posterior pharynx in all ventilated patients,.,ml,two times a day,8
+8913,40862,1,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain,1,tablet,every 4 hours,4
+8925,40909,3,carBAMazepine,200 mg tablet oral two times a day,200,mg,two times a day,4
+8926,40916,3,cefazolin IVPB UH,"(Kefzol, Ancef) 2 g IV pre-procedure Give 1 hour prior to procedure",2,g,pre-procedure,1
+8944,40994,3,labetalol injection UH,"5 - 10 mg IV every 5 minutes PRN hypertension
+HOLD FOR
+HR less than: 60 For SBP greater than 160 (Maximum of 50 mg); Use if HR > 80 BPM",10,mg,every 5 minutes,3
+8969,41127,4,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,4
+9000,41293,9,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,4
+9023,41437,4,labetalol injection UH,"5 - 10 mg IV every 5 minutes PRN hypertension
+HOLD FOR
+HR less than: 60 For SBP >/ 160 (Maximum of 50 mg); Use if HR > 80 BPM",10,mg,every 5 minutes,5
+9033,41512,1,calcium carbonate,"2,500 mg tablet oral once 2 tabs",2500,mg,once,1
+9043,41681,7,gabapentin,(Neurontin) 600 mg capsule oral three times a day,600,mg,three times a day,8
+9044,41683,0,cefoxitin IVPB UH,2 g IV pre-procedure Give 1 hour prior to procedure,2,g,pre-procedure,1
+9044,41683,0,cefoxitin IVPB UH,2 g IV pre-procedure Give 1 hour prior to procedure,2,g,pre-procedure,1
+9045,41684,7,furosemide,(Lasix) 80 mg tablet oral with breakfast,80,mg,with breakfast,3
+9068,41812,4,D5% 045%NaCl + 20 mEq KCl/L,"1,000 mL @ 75 mL/hr IV",.,ml/hr,<Continuous>,2
+9078,41871,3,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",2,mg,every 10 minutes,4
+9093,41923,9,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,4
+9113,41985,1,heparin injection,"5,000 unit subcutaneous two times a day",5000,unit,two times a day,2
+9127,42071,3,cefazolin IVPB UH,2 g IV pre-op,2,g,pre-op,1
+9143,42162,7,labetalol,200 mg tablet oral two times a day,200,mg,two times a day,17
+9237,42634,1,morphine PCA 1 mg/mL - UH,"
+loading dose: 2 mg, may repeat only once after 15 minutes, every 24 hours
+demand dose: 1 mg, may change to: 15 mg if pain not controlled: 1) notify physician; 2) increase dose if the following assessment parameters are met: sedation score < 2; pulse ox > 92%; RR > 10; PCA dose delivered use > 50%; site of pain; new onset
+lockout interval: 6 minutes
+4 hour limit: 40 mg",.,each,PRN,4
+9250,42705,1,D5% 045%NaCl,"1,000 mL 75 mL/hr IV, Saline-lock when tolerating oral fluids",.,ml/hr,<Continuous>,1
+9257,42728,5,dexamethasone (multiroute),"4 mg IV/PO every 6 hours, stop after 4 Times May be administered IV or PO",4,mg,every 6 hours,4
+9275,42835,1,cefazolin IVPB UH,"(Kefzol, Ancef) 2 g IV pre-procedure, stop after 1 Days OR 11 @ 11:00 (12/2)
+Give 1 hour prior to procedure",2,g,pre-procedure,1
+9276,42836,1,clindamycin IVPB UH,"(Cleocin) 600 mg IV every 8 hours, stop after 3 Doses",600,mg,every 8 hours,3
+9276,42836,3,clindamycin IVPB UH,"(Cleocin) 600 mg IV every 8 hours, stop after 3 Doses",600,mg,every 8 hours,3
+9299,42919,4,D5% 045%NaCl + 20 mEq KCl/L/,";
+1,000 mL 125 mL/hr IV, stop after 2 Days",.,ml/hr,<Continuous>,3
+930,2673,1,acetaminophen UH,(Tylenol) 650 mg tablet oral every 4 hours PRN mild pain/fever,650,mg,every 4 hours,1
+9308,42960,3,calcium carbonate,"1,250 mg tablet oral once",1250,mg,once,1
+9355,43175,1,lactated ringers,"1,000 mL 100 mL/hr IV",.,ml/hr,<Continuous>,1
+939,2733,5,metoprolol,(Lopressor) 125 mg tablet oral two times a day,12.5,mg,two times a day,12
+9407,43357,1,magnesium sulfate IVPB UH,"4 g IV as directed PRN Serum Magnesium < 12 to 24;
+Refer to SICU Electrolyte Dosing Guidelines for replacement & lab parameters",4,g,as directed,3
+9407,43357,0,magnesium sulfate IVPB UH,"4 g IV as directed PRN Serum Magnesium < 12 to 24;
+Refer to SICU Electrolyte Dosing Guidelines for replacement & lab parameters",4,g,as directed,3
+9424,43479,1,fentanyl injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,2
+9446,43565,3,fentanyl injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",50,microgram,every 5 minutes,5
+9459,43643,1,metoprolol,(Lopressor) 125 mg suspension oral two times a day via J tube  please hold for sbp <100 or HR <60,12.5,mg,two times a day,4
+9459,43643,1,metoprolol,(Lopressor) 125 mg suspension oral two times a day via J tube  please hold for sbp <100 or HR <60,12.5,mg,two times a day,4
+948,2791,8,hydrocodone/acetamin 75mg/500mg/15mL,(Lortab elixir) 5 - 10 mL solution oral every 4 hours PRN pain,10,ml,every 4 hours,1
+9484,43832,1,enoxaparin injection UH - prophylaxis,(Lovenox) 40 mg subcutaneous daily,40,mg,daily,22
+9501,43949,1,heparin injection,"5,000 unit subcutaneous pre-procedure Give 1 hour prior to procedure or as otherwise indicated",5000,unit,pre-procedure,1
+9528,44167,1,sodium chloride 065% nasal spray,"(Ocean Spray) 1 - 2 spray nasally every 1 hour, stop after 30 Days",1,spray,every 1 hour,9
+9544,44284,7,calcium gluconate IVPB UH,2 g IV once,2,g,once,1
+9547,44288,1,morphine injection UH,"1 mg IV every 1 hour PRN severe pain, stop after 3 Doses",1,mg,every 1 hour,2
+9562,44340,4,piperacillin/tazobactam IVPB UH,(Zosyn) 3375 g IV every 6 hours,3.375,g,every 6 hours,9
+9607,44645,3,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN severe pain Maximum amount of tylenol is 4000 mg from all sources,1,tablet,every 4 hours,4
+962,2927,7,dexamethasone,4 mg tablet oral two times a day,4,mg,two times a day,7
+9625,44816,3,albuterol SVN (NMT)-intermittent,"25 mg inhaled every 4 hours PRN coughing, tight exam",2.5,mg,every 4 hours,2
+9627,44843,3,benzonatate,(Tessalon) 100 mg capsule oral three times a day PRN cough,100,mg,three times a day,2
+9642,44947,1,docusate,(Colace) 100 mg capsule oral two times a day,100,mg,two times a day,1
+9644,44953,9,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,3
+9645,44959,1,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,6
+9655,45028,5,levetiracetam,(Keppra) 750 mg tablet oral two times a day,750,mg,two times a day,15
+9664,45103,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",2,mg,every 10 minutes,3
+9678,45156,3,metoprolol,(Lopressor) 25 mg tablet oral two times a day,25,mg,two times a day,2
+9699,45260,1,quetiapine,(Seroquel) 25 mg tablet oral two times a day,25,mg,two times a day,37
+9715,45331,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,2
+9732,45414,1,lisinopril,(Zestril) 40 mg tablet oral daily,40,mg,daily,1
+9732,45414,1,lisinopril,(Zestril) 40 mg tablet oral daily,40,mg,daily,1
+9733,45419,4,hydrocodone/acetaminophen 5mg/325mg,(Norco) 1 - 2 tablet oral every 4 hours PRN Pain,2,tablet,every 4 hours,1
+9743,45503,4,citalopram,(Celexa) 20 mg tablet oral daily,20,mg,daily,3
+9745,45508,1,pantoprazole,"(Protonix) 40 mg tablet, enteric coated oral before breakfast",40,mg,before breakfast,2
+975,2968,1,docusate,100 mg capsule oral two times a day,100,mg,two times a day,6
+9826,45899,3,fentaNYL injection UH,"25 - 50 microgram IV every 5 minutes PRN severe pain
+Maximum dose 200 mcg  Per PACU protocol",25,microgram,every 5 minutes,4
+9832,45961,7,HYDROmorphone =/> 50 kg or 13 yr,(Dilaudid) 01 - 04 mg IV every 10 minutes PRN severe pain Maximum 25 mg IV dilaudid,0.4,mg,every 10 minutes,6
+986,2991,1,dexamethasone,4 mg tablet oral every 6 hours,4,mg,every 6 hours,13
+9864,46144,9,dexamethasone,"4 mg tablet oral every 6 hours, stop after 4 Doses",4,mg,every 6 hours,4
+9905,46341,1,calcium carbonate,"1,250 mg tablet oral three times a day with meals",1250,mg,three times a day with meals,3
+9911,46389,1,hydrocortisone IVPB UH,"(Solu-CORTEF) 25 mg IV every 8 hours, stop after 2 Doses",25,mg,every 8 hours,2
+9937,46509,1,heparin injection,"5,000 unit subcutaneous three times a day",5000,unit,three times a day,2
+9944,46521,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",3,mg,every 10 minutes,2
+996,3071,1,ranitidine,(Zantac) 150 mg tablet oral two times a day,150,mg,two times a day,2
+9979,46728,1,ibuprofen UH,(Motrin) 600 mg tablet oral every 6 hours PRN mild pain,600,mg,every 6 hours,2
+9984,46785,3,clindamycin IVPB UH,(Cleocin) 900 mg IV pre-procedure Give 30-60 mins prior to incision,900,mg,pre-procedure,1
+9993,46822,1,morphine injection UH,"1 - 4 mg IV every 10 minutes PRN severe pain
+Maximum dose 20 mg  Per PACU protocol",2,mg,every 10 minutes,4
